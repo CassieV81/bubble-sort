@@ -1,4 +1,4 @@
-# Bubble Sort
+# frozen_string_literal: true
 
 def bubble_sort(num_array)
   num_array.each do
